@@ -8,4 +8,4 @@ export const SITE_DESC = "Portfolio Website Template";
 export const SITE_KEYWORDS = "template, portfolio, high school, college, project, admissions, resume";
 
 // Canonical site URL
-export const SITE_URL = "https://sabarishmogallapalli.github.io/green-cheek-conure/";
+export const SITE_URL = "https://sabarishmogallapalli.github.io/template_building/";
